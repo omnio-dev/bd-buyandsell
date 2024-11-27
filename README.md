@@ -1,4 +1,4 @@
-# ODI Business Development - bd-buyandsell
+# Research & Development (rnd)
 ## November 27, 2024
 ### Notes
 - [Gist 1](https://gist.github.com/ryancwarren/32e76d7885516a0d55e87e1767dc70e5)
